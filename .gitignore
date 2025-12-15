@@ -1,0 +1,50 @@
+# Java / Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Package Files
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Log files
+*.log
+logs/
+
+# H2 Database
+*.db
+*.trace.db
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Docker
+*.env
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node modules (if using npm for frontend tools)
+node_modules/
+package-lock.json
+
+# Build artifacts
+build/
+dist/
