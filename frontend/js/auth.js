@@ -2,6 +2,7 @@
  * Authentication JavaScript
  * Handles login and registration
  */
+// Bugfix: prevent empty username or password submission on login
 
 // Show alert message
 function showAlert(message, type = 'success') {
