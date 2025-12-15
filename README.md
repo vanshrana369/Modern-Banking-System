@@ -1,6 +1,7 @@
 # 🏦 Modern Banking System - DevOps Project
 
-A complete, production-ready banking web application built with **Java Spring Boot** backend, **Bootstrap** frontend, and full **DevOps integration** for CI/CD pipelines.
+A complete, production-ready banking web application (EXPERIMENT VERSION)
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Java-11+-orange.svg)
