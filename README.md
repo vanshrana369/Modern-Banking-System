@@ -1,11 +1,11 @@
 # 🏦 Modern Banking System - DevOps Project
 
 <<<<<<< HEAD
-A complete, production-ready banking web application (EXPERIMENT VERSION)
-
-
-
-
+<<<<<<< HEAD
+A complete, production-ready banking web application (FINAL VERSION)
+=======
+A complete, production-ready banking web application (EXPERIMENT CONFLICT VERSION)
+>>>>>>> experiment
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Java-11+-orange.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.x-brightgreen.svg)
