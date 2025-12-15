@@ -501,6 +501,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
+## 📸 Screenshots
+- Git branch creation
+- Commit history graph
+- Merge operations
+- Merge conflict and resolution
+- GitHub repository overview
+
+## 🧠 Challenges Faced
+- Understanding branch workflows
+- Handling merge conflicts
+- Resolving conflicts using Git Bash
+
+## ✅ Conclusion
+This project helped me gain hands-on experience with Git Bash and GitHub, including branching, merging, conflict resolution, and remote repository management.
+
+
 ⭐ **Star this repository if you find it helpful!**
 
 ## 📞 Support
