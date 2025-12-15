@@ -441,6 +441,7 @@ The `Jenkinsfile` provides a complete pipeline with stages:
 ```bash
 cd backend
 mvn test
+- Manual API test scenarios added for account and transaction endpoints
 ```
 
 ### Run Tests with Coverage
