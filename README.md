@@ -1,8 +1,7 @@
 # 🏦 Modern Banking System - DevOps Project
 
-A complete, production-ready banking web application (EXPERIMENT VERSION)
-
-
+<<<<<<< HEAD
+A complete, production-ready banking web application (EXPERIMENT CONFLICT VERSION)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Java-11+-orange.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.x-brightgreen.svg)
@@ -442,6 +441,7 @@ The `Jenkinsfile` provides a complete pipeline with stages:
 ```bash
 cd backend
 mvn test
+- Manual API test scenarios added for account and transaction endpoints
 ```
 
 ### Run Tests with Coverage
