@@ -1,3 +1,4 @@
+// Feature branch: future enhancement for minimum balance validation
 package com.banking.service;
 
 import com.banking.dto.AccountRequest;
