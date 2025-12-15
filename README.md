@@ -1,6 +1,7 @@
 # 🏦 Modern Banking System - DevOps Project
 
-A complete, production-ready banking web application (MAIN VERSION)
+<<<<<<< HEAD
+A complete, production-ready banking web application (FINAL VERSION)
 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
