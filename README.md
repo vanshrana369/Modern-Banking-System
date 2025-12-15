@@ -1,7 +1,8 @@
 # 🏦 Modern Banking System - DevOps Project
 
 <<<<<<< HEAD
-A complete, production-ready banking web application (MAIN VERSION)
+A complete, production-ready banking web application (EXPERIMENT VERSION)
+
 
 
 
